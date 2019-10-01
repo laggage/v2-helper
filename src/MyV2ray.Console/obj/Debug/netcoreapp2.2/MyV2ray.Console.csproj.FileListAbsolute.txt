@@ -1,0 +1,4 @@
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Console\obj\Debug\netcoreapp2.2\MyV2ray.Console.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Console\obj\Debug\netcoreapp2.2\MyV2ray.Console.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Console\obj\Debug\netcoreapp2.2\MyV2ray.Console.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Console\obj\Debug\netcoreapp2.2\MyV2ray.Console.AssemblyInfo.cs

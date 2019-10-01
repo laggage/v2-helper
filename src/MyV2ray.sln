@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyV2ray.Core", "MyV2ray.Core\MyV2ray.Core.csproj", "{2706A9D8-D870-48C3-BA56-61F7AA5022D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyV2ray.Console", "MyV2ray.Console\MyV2ray.Console.csproj", "{C14A222D-8FA4-4DE4-B1F0-740A3CE2F054}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2706A9D8-D870-48C3-BA56-61F7AA5022D9} = {2706A9D8-D870-48C3-BA56-61F7AA5022D9}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2706A9D8-D870-48C3-BA56-61F7AA5022D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2706A9D8-D870-48C3-BA56-61F7AA5022D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2706A9D8-D870-48C3-BA56-61F7AA5022D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2706A9D8-D870-48C3-BA56-61F7AA5022D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14A222D-8FA4-4DE4-B1F0-740A3CE2F054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14A222D-8FA4-4DE4-B1F0-740A3CE2F054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14A222D-8FA4-4DE4-B1F0-740A3CE2F054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14A222D-8FA4-4DE4-B1F0-740A3CE2F054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BE59A0-70F4-4E68-BA5C-427B5CEF08F4}
+	EndGlobalSection
+EndGlobal

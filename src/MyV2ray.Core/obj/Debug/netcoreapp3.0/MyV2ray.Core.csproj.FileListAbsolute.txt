@@ -1,0 +1,15 @@
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\bin\Debug\netcoreapp3.0\MyV2ray.Core.deps.json
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\bin\Debug\netcoreapp3.0\MyV2ray.Core.dll
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\bin\Debug\netcoreapp3.0\MyV2ray.Core.pdb
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.dll
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.pdb
+F:\Laggage\CodeRepository\DotNet\Project\MyV2ray\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\Project\v2ray-helper\src\MyV2ray.Core\bin\Debug\netcoreapp3.0\MyV2ray.Core.deps.json
+F:\Laggage\CodeRepository\DotNet\Project\v2ray-helper\src\MyV2ray.Core\bin\Debug\netcoreapp3.0\MyV2ray.Core.dll
+F:\Laggage\CodeRepository\DotNet\Project\v2ray-helper\src\MyV2ray.Core\bin\Debug\netcoreapp3.0\MyV2ray.Core.pdb
+F:\Laggage\CodeRepository\DotNet\Project\v2ray-helper\src\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\Project\v2ray-helper\src\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\Project\v2ray-helper\src\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.dll
+F:\Laggage\CodeRepository\DotNet\Project\v2ray-helper\src\MyV2ray.Core\obj\Debug\netcoreapp3.0\MyV2ray.Core.pdb
